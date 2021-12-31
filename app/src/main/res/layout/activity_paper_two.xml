@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+android:background="@color/grey"
+    tools:context=".PaperTwo"
+    >
+
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="135dp"
+        android:layout_height="99dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        app:srcCompat="@drawable/icon3" />
+
+
+    <TextView
+        android:layout_width="286dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="20dp"
+
+        android:text="STUDY TIME"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:layout_gravity="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="281dp"
+        android:layout_height="29dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="Grade 11 QA"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1079dp">
+
+
+        <Button
+            android:id="@+id/maths2"
+            android:layout_width="272dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/circle"
+            android:text="Mathematics"
+            android:textColor="@color/white"
+
+            />
+
+        <Button
+            android:id="@+id/phsicshy2"
+            android:layout_width="272dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/circle"
+            android:text="Physical Sciences"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/about"
+            android:layout_width="272dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="170dp"
+            android:background="@drawable/circle"
+            android:text="About Us"
+            android:textColor="@color/white" />
+
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

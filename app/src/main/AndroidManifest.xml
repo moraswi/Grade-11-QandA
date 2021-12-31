@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cvb.splashscreen">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SplashScreen">
+        <activity android:name=".mathnov2020p1"></activity>
+        <activity android:name=".phy2019sp1" />
+        <activity android:name=".phy2019jp1" />
+        <activity android:name=".math2020nvp1" />
+        <activity android:name=".tips" />
+        <activity android:name=".aboutUs" />
+        <activity android:name=".QPhysics" />
+        <activity android:name=".QMaths" />
+        <activity android:name=".physicspdf2n" />
+        <activity android:name=".physicspdf2s" />
+        <activity android:name=".math2nov" />
+        <activity android:name=".maths2j" />
+        <activity android:name=".PaperTwo" />
+        <activity android:name=".PhysicsScreen" />
+        <activity android:name=".MathPdf" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

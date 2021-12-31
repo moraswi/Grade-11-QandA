@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".PhysicsScreen">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/phyp2" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        android:layout_marginLeft="181dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/phyp2s" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/phy2019jp1"
+        android:layout_marginTop="245dp"
+        android:layout_marginLeft="33dp"/>
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/phy2019sp1"
+        android:layout_marginTop="245dp"
+        android:layout_marginLeft="181dp"/>
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/notavailable"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="33dp"/>
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/notavailable"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="181dp"/>
+</RelativeLayout>

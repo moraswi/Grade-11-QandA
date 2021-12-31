@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Grade 11 Q/A</string>
+
+    <string name="tip">
+
+
+\n\n
+•	Study one subject at a time\n\n
+•	Solve questions before you see solution/memorandum\n\n
+•	Have a study timetable\n\n
+•	Have a short break before you study another subject\n\n\n\n</string>
+
+    <string name="pass">
+
+\n\n
+
+•	Read and understand a question before you solve it\n\n
+•	Don’t wait for your teacher to introduce a chapter, be ahead \n\n
+•	Have a morning study at least 1hr 30min before you go to school\n\n
+•	Study at least 3 subjects per day (1hr 30min to 2hrs)\n\n
+•	Have friends which are good in class, for the sake of your future\n\n
+•	Grade 8: Sleep at/after 20h00(studying)\n\n
+•	Grade 9: Sleep at/after 21h00(studying)\n\n
+•	Grade 10: Sleep at/after 22h00(studying)\n\n
+•	Grade 11: Sleep at/after 23h00(studying)\n\n
+•	Grade 12: Sleep at/after 00h00(studying)\n\n\n\n</string>
+
+    <string name="love">
+\n\n
+        •	Study it\n\n
+•	Love the person who teaches the subject( if you hate your teacher, his/her subject will hate you)\n\n
+•	Always dream to get +60% so that if you fail to obtain it, you can at least get +50%\n\n
+•	When you fail, never blame your teacher, always blame your self\n\n
+•	When you see a challenging question, get excited because you are learning new things and consult if you are unable to solve it\n\n
+
+
+    </string>
+
+    <string name="aboutus">
+\n\n\n
+•	Grade 11 Q/A app is an offline app\n\n
+•	We don’t help with homework’s or any school activities\n\n
+•	Our email: moraswip97@gmail.com\n\n
+•	If this app gives you problems, send us email\n\n
+•	 We don’t share question papers/memorandums via social media, in this case charges may apply\n\n
+•	We only respond to emails\n
+    </string>
+</resources>

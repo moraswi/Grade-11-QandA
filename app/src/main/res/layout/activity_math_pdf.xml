@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MathPdf">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="141dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/mathsp2"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="33dp"/>
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="141dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/mathsp2n"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="181dp"/>
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="141dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/mathnov2020p2"
+        android:layout_marginTop="245dp"
+        android:layout_marginLeft="33dp"/>
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="141dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/math2020novp1"
+        android:layout_marginTop="245dp"
+        android:layout_marginLeft="181dp"/>
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/notavailable"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="33dp"/>
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="141dp"
+        android:layout_height="187dp"
+        app:srcCompat="@drawable/notavailable"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="181dp"/>
+
+
+</RelativeLayout>
